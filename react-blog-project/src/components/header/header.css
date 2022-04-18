@@ -1,0 +1,12 @@
+.header{
+    margin: 1%;
+    
+}
+.headerTitle{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+.paragraph{
+    margin-top: 1%;
+}

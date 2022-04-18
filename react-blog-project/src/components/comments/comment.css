@@ -1,0 +1,22 @@
+.container.row{
+    background:lightgray;
+    margin: 4px;
+    padding: 10px 0;
+}
+
+.comment-body{
+    font-size: 14px;
+}
+.comment-name{
+    font-size: 18px;
+    margin-left: 50px;
+}
+.profile{
+    height: 35px;
+    width: 35px;
+    border-radius: 35px;
+}
+.name{
+    margin-left: 15px;
+    font-weight: bold;
+}
